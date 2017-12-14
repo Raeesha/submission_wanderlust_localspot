@@ -1,0 +1,61 @@
+.heading{
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  }
+
+  .fa-search {
+    left: 20%;
+    position: relative;
+    margin-top: .2cm;
+  }
+
+  .card-img {
+  opacity: 0.4;
+}
+
+.card {
+  border-radius: initial;
+}
+
+h6 {
+   text-transform: uppercase;
+   font-family: "Roboto", sans-serif;
+   position: relative;
+    text-align: center;
+    padding-top: 100px;
+}
+
+h4{
+  margin-top: 1cm;
+  color: #404040;
+  font-family: "Roboto", sans-serif;
+}
+
+h5{
+  margin-top: 1cm;
+  font-family: "Roboto", sans-serif;
+}
+
+hr{
+  margin-top: .5cm;
+  border-color: gray;
+}
+
+.fa-chevron-right{
+  float:right;
+  color: gray;
+}
+
+.col-md{
+  margin-top: .1cm;
+}
+
+.fa-comment { left: 0%; position: relative; }
+.fa-bookmark { left: 23%; position: relative; }
+.fa-bell  { left: 46%; position: relative; }
+.fa-user { left: 68%; position: relative; }
+
+.bottombar{
+  color: #404040;
+}

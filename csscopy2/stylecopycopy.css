@@ -1,0 +1,76 @@
+.heading{
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  }
+
+.fa-search {
+    left: 20%;
+    position: relative;
+    margin-top: .2cm;
+  }
+
+.fa-comment {
+  left: 0%;
+  position: relative;
+}
+
+.fa-bookmark {
+   left: 23%;
+   position: relative;
+ }
+
+.fa-bell  {
+  left: 46%;
+  position: relative;
+}
+
+.fa-user {
+  left: 68%;
+  position: relative;
+}
+
+.sub-heading{
+  font-family: "Roboto", sans-serif;
+  font-size: 130%;
+  color:#404040;
+}
+
+.content{
+  font-family: "Roboto", sans-serif;
+  font-size: 100%;
+}
+
+p.footer{
+  font-family: "Roboto", sans-serif;
+}
+
+hr{
+  border-color: gray;
+}
+
+.sub-sub-heading{
+  font-family: "Roboto", sans-serif;
+  font-size: 120%;
+  color:#404040;
+}
+
+.bottombar{
+  color: #404040;
+}
+
+.rating {
+  unicode-bidi: bidi-override;
+  direction: rtl;
+  text-align:center;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  width: 1.1em;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+}

@@ -1,0 +1,36 @@
+.heading{
+  text-transform: uppercase;
+  font-family: "Roboto", sans-serif;
+  position: relative;
+  }
+
+  .fa-search {
+    left: 20%;
+    position: relative;
+    margin-top: .2cm;
+  }
+
+  .card-img {
+  opacity: 0.4;
+}
+
+h6 {
+   text-transform: uppercase;
+   font-family: "Roboto", sans-serif;
+   position: relative;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.container{
+  margin-top: 1cm;
+}
+
+.fa-comment { left: 0%; position: relative; }
+.fa-bookmark { left: 23%; position: relative; }
+.fa-bell  { left: 46%; position: relative; }
+.fa-user { left: 68%; position: relative; }
+
+.bottombar{
+  color: #404040;
+}
